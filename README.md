@@ -34,7 +34,7 @@ A modern, full-featured admin dashboard for managing bookstore operations. Built
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/bookshop-admin.git
+git clone https://github.com/theek23/bookshop-admin-dashboard-ReactJS.git
 cd bookshop-admin
 ```
 
